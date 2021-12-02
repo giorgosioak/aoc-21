@@ -4,7 +4,8 @@ My goal in this AoC is to learn better C++ 17
 
 ## Calendar
 
-[Day 1: Sonar Sweep](01)
+* [Day 1: Sonar Sweep](01)
+* [Day 2: Dive!](02)
 
 ## Background Story
 
