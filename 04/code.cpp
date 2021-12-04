@@ -54,25 +54,21 @@ int main () {
 	int found = -1;
 	for(int n : numbers) {
 		for (int b = 0; b < boards.size(); b++) {
-			// std::cout << "==== board " << b << " on n " << n  << " ====" << std::endl;
 			boards[b].mark(n);
-			// boards[b].printmarked();
 
 			if ( boards[b].check() ) {
-				// std::cout << "full line on n = " << n << std::endl;
 				found = b;
 				break;
 			}
 		}
 		if ( found > 0 ) {
 			std::cout << "Part1: " << boards[found].unmarkedsum() * n << std::endl;
-			// boards[found].print();
-			// boards[found].printmarked();
 			break;
 		}
 	}
 
 	/* Reset boards for part 2 */
+
 	for (int b = 0; b < boards.size(); b++) {
 		boards[b].reset();
 	}
@@ -101,6 +97,7 @@ int main () {
 	}
 
 	/* Reset boards again */
+	
 	for (int b = 0; b < boards.size(); b++) {
 		boards[b].reset();
 	}
@@ -119,6 +116,6 @@ int main () {
 			}
 		}
 	}
-	
+
 	return 0;
 }

@@ -5,7 +5,7 @@ class Board {
   public:
     int bingo[5][5];
     int marked[5][5];
-    bool win = false;
+    bool win;
 
     Board();
     void reset();
