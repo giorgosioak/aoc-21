@@ -6,7 +6,7 @@ My goal in this AoC is to learn better C++ 17
 
 * [Day 1: Sonar Sweep](01)
 * [Day 2: Dive!](02)
-* [Day 3: Binary Diagnostic]() (will rewrite)
+* [Day 3: Binary Diagnostic](03)
 * [Day 4: Giant Squid](04)
 
 
