@@ -8,6 +8,7 @@ My goal in this AoC is to learn better C++ 17
 * [Day 2: Dive!](02)
 * [Day 3: Binary Diagnostic](03)
 * [Day 4: Giant Squid](04)
+* [Day 5: Hydrothermal Venture](05)
 
 
 ## Background Story
