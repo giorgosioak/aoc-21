@@ -54,7 +54,7 @@ In this example, after `18` days, there are a total of `26` fish. After `80` day
 
 Find a way to simulate lanternfish. **How many lanternfish would there be after 80 days?**
 
-Your puzzle answer was 363101.
+Your puzzle answer was `363101`.
 
 ## Part Two
 
