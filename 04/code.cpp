@@ -26,7 +26,8 @@ int main () {
 
 	/* Read chosen numbers */
 
-	std::getline(input, line, ',');
+	std::getline(input, line);
+	std::replace( line.begin(), line.end(), ',', ' ');
 	std::istringstream linestream(line);
 	while (linestream >> x) {
 		numbers.push_back(x);
