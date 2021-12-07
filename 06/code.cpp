@@ -26,8 +26,7 @@ int main () {
 		int x;
 		std::string line;
 
-		std::getline(input, line);
-		std::replace( line.begin(), line.end(), ',', ' ');
+		std::getline(input, line, ',');
 		std::istringstream linestream(line);
 
 		while (linestream >> x) {
