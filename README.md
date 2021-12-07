@@ -10,6 +10,7 @@ My goal in this AoC is to learn better C++ 17
 * [Day 4: Giant Squid](04)
 * [Day 5: Hydrothermal Venture](05)
 * [Day 6: Lanternfish](06)
+* [Day 7: The Treachery of Whales](07)
 
 
 ## Background Story
