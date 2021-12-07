@@ -43,8 +43,7 @@ int main () {
 		std::string line, arrow;
 
 		// line : 0,9 -> 5,9
-		std::getline(input, line);
-		std::replace( line.begin(), line.end(), ',', ' ');
+		std::getline(input, line, ',');
 		std::istringstream linestream(line);
 
 		while (linestream >> x >> y >> arrow >> a >> b  ) {
