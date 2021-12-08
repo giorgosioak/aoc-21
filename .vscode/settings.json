@@ -92,7 +92,22 @@
         "stack": "cpp",
         "filesystem": "cpp",
         "any": "cpp",
-        "strstream": "cpp"
+        "strstream": "cpp",
+        "csetjmp": "cpp",
+        "barrier": "cpp",
+        "cfenv": "cpp",
+        "charconv": "cpp",
+        "coroutine": "cpp",
+        "cuchar": "cpp",
+        "regex": "cpp",
+        "source_location": "cpp",
+        "future": "cpp",
+        "latch": "cpp",
+        "ranges": "cpp",
+        "scoped_allocator": "cpp",
+        "shared_mutex": "cpp",
+        "span": "cpp",
+        "syncstream": "cpp"
     },
     "C_Cpp.default.cppStandard": "c++17"
 }
