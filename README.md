@@ -12,7 +12,7 @@ My goal in this AoC is to learn better C++ 17
 * [Day 6: Lanternfish](06)
 * [Day 7: The Treachery of Whales](07)
 * [Day 8: Seven Segment Search](08)
-
+* [Day 9: Day 9: Smoke Basin](09)
 
 ## Background Story
 
