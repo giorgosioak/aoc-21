@@ -18,6 +18,7 @@ My goal in this AoC is to learn better C++ 17
 * [Day 12: Passage Pathing](12)
 * [Day 13: Transparent Origami](13)
 * [Day 14: Extended Polymerization](14)
+* [Day 20: Trench Map](20)
 
 ## Background Story
 
