@@ -19,6 +19,7 @@ My goal in this AoC is to learn better C++ 17
 * [Day 13: Transparent Origami](13)
 * [Day 14: Extended Polymerization](14)
 * [Day 20: Trench Map](20)
+* [Day 21: Dirac Dice](21)
 
 ## Background Story
 
